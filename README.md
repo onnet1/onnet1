@@ -10,8 +10,6 @@
 <a href="https://t.me/myonnet"  target="_blank">@myonnet</a>
 <br> <br> <br> <br> 
 
- ON Net
-<br><br>
 چندین سرویس و سرور از سراسر دنیا (این یعنی قطعی شما به صفر نزدیک کردیم)
 <br><br>
 امکان خرید آنلاین و تحویل آنی...
