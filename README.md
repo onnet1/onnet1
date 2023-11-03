@@ -1,9 +1,9 @@
 <div> <center> <h3> <b> 
- <a target="_blank" href="https://onnet.site/">
+ 
 🔴 برای رفتن به سایت خرید روی لینک زیر کلیک کنید 🚀
 
 <br><br>
-   onnet.site </a>
+<a target="_blank" href="https://onnet.site/">onnet.site </a>
 <br><br>
 
 🔵 یا به آیدی تلگرام زیر پیام دهید
