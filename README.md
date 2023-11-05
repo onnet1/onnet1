@@ -3,7 +3,7 @@
 🔴 برای رفتن به سایت خرید روی لینک زیر کلیک کنید 🚀
 
 <br><br>
-<a target="_blank" href="https://onnet20.fun/">onnet.site </a>
+<a target="_blank" href="https://onnet20.fun/">onnet20.fun </a>
 <br><br>
 
 🔵 یا به آیدی تلگرام زیر پیام دهید
